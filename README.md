@@ -1,2 +1,2 @@
 # SAP
-Python call SAP to simulate Biztalk session
+Python call SAP to simulate Biztalk multi-session
